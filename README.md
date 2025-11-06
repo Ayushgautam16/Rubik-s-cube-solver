@@ -239,4 +239,4 @@ Solution: B2 U2 F' R U D' L' B' U L F U F2 R2 F2 D' F2 D R2 D2
 
 # License
 
-Qbr is licensed under the MIT License.
+Rubik-s-cube-solveris licensed under the MIT License.
